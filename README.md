@@ -18,12 +18,6 @@ A modern desktop application for downloading high-quality audio from YouTube vid
 | 🔄 Playlist Support | Download entire playlists with organized folders |
 | 📈 Detailed Progress | See which song is currently downloading |
 
-## 🚀 Quick Start
-
-### Download Pre-built Version
-1. Visit [Releases](https://github.com/kanyalmohit/YouTube-Music-Download/releases)
-2. Download the latest version
-3. Run the installer
 
 ### Build from Source
 ```bash
