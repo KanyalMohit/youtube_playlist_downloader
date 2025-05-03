@@ -2,9 +2,7 @@
 
 A modern desktop application for downloading high-quality audio from YouTube videos and playlists. Built with Electron for Windows.
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/12dc521c-f890-4ba1-9c83-54247c917366" alt="App Screenshot" width="600"/>
-</div>
+
 
 ## ✨ Features
 
