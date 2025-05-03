@@ -2,9 +2,7 @@
 
 A modern desktop application for downloading high-quality audio from YouTube videos and playlists. Built with Electron for Windows.
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/12dc521c-f890-4ba1-9c83-54247c917366" alt="App Screenshot" width="600"/>
-</div>
+
 
 ## ✨ Features
 
@@ -18,14 +16,7 @@ A modern desktop application for downloading high-quality audio from YouTube vid
 | 💡 Modern UI | Clean, dark-themed interface |
 | ✅ Self-Contained | No additional software required |
 | 🔄 Playlist Support | Download entire playlists with organized folders |
-| 📈 Detailed Progress | See which song is currently downloading |
 
-## 🚀 Quick Start
-
-### Download Pre-built Version
-1. Visit [Releases](https://github.com/kanyalmohit/YouTube-Music-Download/releases)
-2. Download the latest version
-3. Run the installer
 
 ### Build from Source
 ```bash
