@@ -1,7 +1,7 @@
 # YouTube Music Downloader 🎵
 
 A modern desktop application for downloading high-quality audio from YouTube videos and playlists. Built with Electron for Windows.
-
+### While downloading some error may come just click ok
 
 
 ## ✨ Features
